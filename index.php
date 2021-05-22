@@ -1,3 +1,3 @@
 <?php
-header("location:siswa/tkj/index.php");
+header("location:siswa-daftar/tkj/index.php");
  ?>
